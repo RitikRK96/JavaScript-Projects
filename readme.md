@@ -9,3 +9,6 @@
 
 ### Project 4 Link: Button Ripple Effect
     https://ritikrk96.github.io/JavaScript-Projects/04_buttonRippleEffect/index.html
+
+### Project 5 Link: Random Photo Generator
+    https://ritikrk96.github.io/JavaScript-Projects/05_randomPhotos/index.html
